@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andres! <br/> IT Professional In Server & Cloud </a></h1>
+<h1>Hello, I'm Andres! <br/> IT Professional In Server & Cloud </a></h1>
 
 <h2>👨‍💻 Windows Server Projects:</h2>
 
