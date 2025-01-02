@@ -1,16 +1,12 @@
 <h1>Hello, I'm Andres! <br/> IT Professional In Server & Cloud </a></h1>
 
-<h2>👨‍💻 Windows Server Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b> Active Directory Bulk User Creation</b>
 
-<h2>🐧 Linux Server Projects:</h2>
-
 - <b> Linux Server Management and Monitoring Toolkit <b>
 
-/<h2>☁️ Azure Administration Projects:</h2>
-
-- <b> NetMaze Explorer (Implement and manage virtual networking)</b>/
+- <b> VM Fleet Commander (Deploy and manage Azure compute resources)</b>
 
 <h2>🤳 Connect with me on LinkedIn:</h2>
 
