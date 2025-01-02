@@ -8,9 +8,9 @@
 
 - <b> Linux Server Management and Monitoring Toolkit <b>
 
-<h2>☁️ Azure Administration Projects:</h2>
+/<h2>☁️ Azure Administration Projects:</h2>
 
-- <b> NetMaze Explorer (Implement and manage virtual networking)</b>
+- <b> NetMaze Explorer (Implement and manage virtual networking)</b>/
 
 <h2>🤳 Connect with me on LinkedIn:</h2>
 
