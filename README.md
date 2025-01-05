@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <h3>Active Directory</h3>
+- <h3>Windows Server Administration</h3>
 
   - <b>[Active Directory Deployment and Configuration](https://github.com/andres1rosa/ActiveDirectoryConfiguration)</b>
   - <b>Server Network Configuration</b>
