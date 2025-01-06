@@ -10,7 +10,7 @@
   
 - <h3>Linux Server Administration</h3>
 
-  - <b>Coming Soon</b>
+  - <b>Joining Red Hat Machine to Domain</b>
   
 <h2>🤳 Connect with me on LinkedIn:</h2>
 
