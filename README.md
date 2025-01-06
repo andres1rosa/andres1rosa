@@ -12,6 +12,12 @@
 
   - <b>Joining Red Hat Machine to Domain</b>
   
+<h2>👨‍💻 IT Certifications:</h2>
+
+- <b>AZ-900 Azure Fundementals</b>
+- <b>AWS Certified Cloud Practitioner</b>
+- <b>CompTIA Security+ CE</b>
+  
 <h2>🤳 Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="Andres Rosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
