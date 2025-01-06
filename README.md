@@ -8,7 +8,9 @@
   - <b>[Server Network Configuration](https://github.com/andres1rosa/ServerNetworkConfiguration/tree/main)</b>
   - <b>[PowerShell Bulk User Creation](https://github.com/andres1rosa/PowerShellBulkUserCreation/tree/main)</b>
   
-- <h3>Linux Server Administration(In-Progress)</h3>
+- <h3>Linux Server Administration</h3>
+
+  - <b>Coming Soon</b>
   
 <h2>🤳 Connect with me on LinkedIn:</h2>
 
